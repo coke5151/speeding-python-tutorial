@@ -1,2 +1,3 @@
-# speeding-python-tutorial
-【超速 Python】系列教學影片教材
+# Speeding Python Tutorial
+
+【超速學 Python】系列教學影片教材
